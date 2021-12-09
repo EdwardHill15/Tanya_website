@@ -6,7 +6,7 @@ title: Tanya Andrushchenko
 superuser: true
 
 # Role/position/tagline
-role: language Teacher
+role: Language Teacher
 
 # Organizations/Affiliations to show in About widget
 organizations:
